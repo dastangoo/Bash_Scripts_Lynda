@@ -1,0 +1,23 @@
+find: ‘/etc/pki/CA/private’: Permission denied
+find: ‘/etc/pki/rsyslog’: Permission denied
+find: ‘/etc/dhcp’: Permission denied
+find: ‘/etc/audit’: Permission denied
+find: ‘/etc/polkit-1/rules.d’: Permission denied
+find: ‘/etc/polkit-1/localauthority’: Permission denied
+/etc/sysconfig/grub
+/etc/default/grub
+find: ‘/etc/grub.d’: Permission denied
+find: ‘/etc/selinux/targeted/modules/active’: Permission denied
+find: ‘/etc/selinux/targeted/modules/tmp’: Permission denied
+find: ‘/etc/selinux/targeted/active’: Permission denied
+find: ‘/etc/selinux/targeted/tmp’: Permission denied
+find: ‘/etc/selinux/final’: Permission denied
+find: ‘/etc/lvm/archive’: Permission denied
+find: ‘/etc/lvm/backup’: Permission denied
+find: ‘/etc/lvm/cache’: Permission denied
+find: ‘/etc/firewalld’: Permission denied
+find: ‘/etc/audisp’: Permission denied
+find: ‘/etc/sudoers.d’: Permission denied
+find: ‘/etc/ipsec.d’: Permission denied
+find: ‘/etc/vmware-tools/GuestProxyData/trusted’: Permission denied
+find: ‘/etc/named’: Permission denied
